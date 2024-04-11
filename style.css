@@ -1,0 +1,117 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy';
+    box-sizing: border-box;
+}
+
+html,body
+{
+    height: 100%;
+    width: 100%;
+}
+
+#main
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: palegreen;
+}
+
+#panel
+{
+    overflow: hidden;
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+#ptop
+{
+    padding: 0px 20%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(12, 13, 12);
+}
+
+.elem
+{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.elem h2
+{
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.box
+{
+    color: #000000;
+    font-weight: 600;
+    font-size: 22px;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#pbtm
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 1000;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+    width: 100%;
+    height: calc(100% - 100px);
+}
+
+.bubble
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(72,104,72);
+    color: #fff;
+    border-radius: 50%;
+    font-weight: 800;
+}
+
+.bubble:hover{
+    cursor: pointer;
+    background-color: rgb(50,75,50);
+}
+
+
+/* Media Query for smaller screens */
+@media only screen and (max-width: 600px) {
+    #ptop {
+        padding: 0 10px; /* Adjusted padding for smaller screens */
+    }
+
+    .elem h2,
+    .box,
+    #pbtm {
+        font-size: 14px; /* Reduced font size for smaller screens */
+    }
+
+    .bubble {
+        width: 30px; /* Reduced width for smaller screens */
+        height: 30px; /* Reduced height for smaller screens */
+    }
+}
