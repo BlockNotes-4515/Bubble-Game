@@ -1,8 +1,6 @@
 <h1><center><b># Bubble-Game</b></center>
 <p align="center">
-This Game Main Motive is to improv your Concentration Power while working!
-Certainly! Here's a detailed description for your GitHub README, covering all functionalities, technologies, and relevant details about your Bubble Game:
-
+>>>>> This Game Main Motive is to improv your Concentration Power while working! <<<<<
 ---
 </p>
 <hr>
@@ -54,8 +52,8 @@ Bubble Game is a simple and addictive web-based game where players need to click
 
 <h3><i><b><u>DEMO:</u></b></i></h3> <a href="https://blocknotes-4515.github.io/Bubble-Game/">Let's PLAY THE GAME THEN CLICK HERE!</a>
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/left_image.jpg" alt="Left Image" width="400px">
-  <img src="images/right_image.jpg" alt="Right Image" width="400px">
+  <img src="images/demo1.PNG" alt="Left Image" width="400px">
+  <img src="images/demo2.PNG" alt="Right Image" width="400px">
 </div>
 
 
@@ -76,7 +74,7 @@ Contributions to the Bubble Game project are welcome! If you have any ideas for 
 
 <h2><b>## License</b></h2>
 <p align="center">
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the <a href="https://drive.google.com/file/d/1cwp2tO6gvFL62ZbQB4nPjYd5l2LOe2b1/view?usp=sharing">MIT LICENCE @Copyright 2024 DD Coorporations.</a>
 
 ---
 
