@@ -23,9 +23,9 @@ Bubble Game is a simple and addictive web-based game where players need to click
 <h2><b>## Technologies Used</b></h2>
 
 <p align="center">
-- **HTML:** The game interface is created using HTML to structure the elements on the webpage.
-- **CSS:** CSS styles are applied to enhance the visual appeal and layout of the game interface.
-- **JavaScript:** The game logic and functionalities are implemented using JavaScript, including generating bubbles, updating scores, handling click events, and running the timer.
+- **HTML:** The game interface is created using HTML to structure the elements on the webpage.<br>
+- **CSS:** CSS styles are applied to enhance the visual appeal and layout of the game interface.<br>
+- **JavaScript:** The game logic and functionalities are implemented using JavaScript, including generating bubbles, updating scores, handling click events, and running the timer.<br>
 </p>
 <hr color="blue" width="100%">
 
@@ -42,17 +42,22 @@ Bubble Game is a simple and addictive web-based game where players need to click
 <h2><b>## How to Play</b></h2>
 
 <p align="center">
-1. When the game starts, bubbles containing random numbers appear on the game panel.
-2. The "Hit" number displayed at the top indicates the target number that the player needs to click on.
-3. Click on a bubble with a number matching the "Hit" number to earn points.
-4. Keep clicking on matching bubbles to increase your score before the timer runs out.
-5. The game ends when the timer reaches zero. Your final score is displayed, indicating your performance in the game.
+1. When the game starts, bubbles containing random numbers appear on the game panel.<br>
+2. The "Hit" number displayed at the top indicates the target number that the player needs to click on.<br>
+3. Click on a bubble with a number matching the "Hit" number to earn points.<br>
+4. Keep clicking on matching bubbles to increase your score before the timer runs out.<br>
+5. The game ends when the timer reaches zero. Your final score is displayed, indicating your performance in the game.<br>
 </p>
 <hr color="green" width="100%">
 
 <h2><b>## Demo</b></h2>
 
 <h3><i><b><u>DEMO:</u></b></i></h3> <a href="https://blocknotes-4515.github.io/Bubble-Game/">Let's PLAY THE GAME THEN CLICK HERE!</a>
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/left_image.jpg" alt="Left Image" width="400px">
+  <img src="images/right_image.jpg" alt="Right Image" width="400px">
+</div>
+
 
 <h2><b>## Installation</b></h2>
 <p align="center">
