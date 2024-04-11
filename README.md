@@ -52,8 +52,8 @@ Bubble Game is a simple and addictive web-based game where players need to click
 
 <h3><i><b><u>DEMO:</u></b></i></h3> <a href="https://blocknotes-4515.github.io/Bubble-Game/">Let's PLAY THE GAME THEN CLICK HERE!</a>
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/demo1.PNG" alt="Left Image" width="400px">
-  <img src="images/demo2.PNG" alt="Right Image" width="400px">
+  <img src="demo1.PNG" alt="Left Image" width="400px">
+  <img src="demo2.PNG" alt="Right Image" width="400px">
 </div>
 
 
