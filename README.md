@@ -9,7 +9,7 @@ Certainly! Here's a detailed description for your GitHub README, covering all fu
 <h1># Bubble Game</h1>
 <hr color="red" width="100%">
 <p align="center">
-  <img src="images/banner.jpg" alt="Banner" width="800px">
+  <img src="images/banner.jpg" alt="Banner" width="820px" border="4">
 </p>
 
 
@@ -52,7 +52,7 @@ Bubble Game is a simple and addictive web-based game where players need to click
 
 <h2><b>## Demo</b></h2>
 
-[Link to live demo (if available)]
+<h3><i><b><u>DEMO:</u></b></i></h3> <a href="https://blocknotes-4515.github.io/Bubble-Game/">Let's PLAY THE GAME THEN CLICK HERE!</a>
 
 <h2><b>## Installation</b></h2>
 <p align="center">
