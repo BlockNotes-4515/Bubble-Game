@@ -92,7 +92,6 @@ Feel free to customize and expand upon this README template to provide more deta
 <br>
 
 <h2><b> MORE TO FOLLOW ON: DD Coorporations (Leader - Cyber Geeks)</b></h2>
-<div align="center">
 <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
   
 <a href="https://github.com/BlockNotes-4515"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"></a>
@@ -100,4 +99,4 @@ Feel free to customize and expand upon this README template to provide more deta
 <a href="https://www.instagram.com/dhayaldhruv271/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 
 <a href="https://twitter.com/DhayalDhruv"><img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4NjI2MDMsIm5iZiI6MTcxMjg2MjMwMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDExVDE5MDUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiY2FjOTkzNjg4ZmJhZDFmYTUxMDllOTk3MjFkYWU0YjRkY2FmNjRmYzdmM2NiOGQ3ZGE4YjdkYmYyZDA5NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3QmLIF2Y2HOQp_gQqUFoBxdEL9h1fxj1GePiVTt5puA"></a>
-</div>
+
