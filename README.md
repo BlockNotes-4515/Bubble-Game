@@ -22,7 +22,7 @@ Bubble Game is a simple and addictive web-based game where players need to click
 <hr color="yellow" width="100%">
 <h2><b>## Technologies Used</b></h2>
 
-<p align="center">
+<p>
 - **HTML:** The game interface is created using HTML to structure the elements on the webpage.<br>
 - **CSS:** CSS styles are applied to enhance the visual appeal and layout of the game interface.<br>
 - **JavaScript:** The game logic and functionalities are implemented using JavaScript, including generating bubbles, updating scores, handling click events, and running the timer.<br>
@@ -41,7 +41,7 @@ Bubble Game is a simple and addictive web-based game where players need to click
 
 <h2><b>## How to Play</b></h2>
 
-<p align="center">
+<p>
 1. When the game starts, bubbles containing random numbers appear on the game panel.<br>
 2. The "Hit" number displayed at the top indicates the target number that the player needs to click on.<br>
 3. Click on a bubble with a number matching the "Hit" number to earn points.<br>
