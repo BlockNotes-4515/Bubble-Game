@@ -93,9 +93,9 @@ Feel free to customize and expand upon this README template to provide more deta
 
 <h2><b> MORE TO FOLLOW ON: DD Coorporations (Leader - Cyber Geeks)</b></h2>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
-<img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4NjE0NTYsIm5iZiI6MTcxMjg2MTE1NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDExVDE4NDU1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZTdhMjY3MTM2M2MyY2IyNmMxNmZlMDk1MTY2MTI5NzNlZDMyN2IzNGEwMWVkZjUzMzQ2Y2QyZjYzZTQwN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HOEwKIRFVimlwFzVFvHGhPvObRKX-iO9Z6SSvgpAqq0">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+<img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4NjE0NTYsIm5iZiI6MTcxMjg2MTE1NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDExVDE4NDU1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZTdhMjY3MTM2M2MyY2IyNmMxNmZlMDk1MTY2MTI5NzNlZDMyN2IzNGEwMWVkZjUzMzQ2Y2QyZjYzZTQwN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HOEwKIRFVimlwFzVFvHGhPvObRKX-iO9Z6SSvgpAqq0" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
 </div>
