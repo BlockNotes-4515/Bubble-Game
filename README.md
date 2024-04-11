@@ -1,6 +1,6 @@
 <h1><center><b># Bubble-Game</b></center>
 <p align="center">
->>>>> This Game Main Motive is to improv your Concentration Power while working! <<<<<
+>>>>> This Game Main Motive is to improve your Concentration Power while working! <<<<<
 ---
 </p>
 <hr>
@@ -52,10 +52,10 @@ Bubble Game is a simple and addictive web-based game where players need to click
 
 <h3><i><b><u>DEMO:</u></b></i></h3> <a href="https://blocknotes-4515.github.io/Bubble-Game/">Let's PLAY THE GAME THEN CLICK HERE!</a>
 <div style="display: flex; justify-content: space-between;">
-  <img src="demo1.PNG" alt="Left Image" width="400px">
-  <img src="demo2.PNG" alt="Right Image" width="400px">
+  <a href="https://blocknotes-4515.github.io/Bubble-Game/"><img src="demo1.PNG" alt="Left Image" width="400px"></a>
+  <a href="https://blocknotes-4515.github.io/Bubble-Game/"><img src="demo2.PNG" alt="Right Image" width="400px"></a>
 </div>
-
+<p><b><i> Let's Play: <a href="https://blocknotes-4515.github.io/Bubble-Game/">Catch the Bubble If You can (DEKHTE HAIN KISME KITNA HN DUM!</b></p>
 
 <h2><b>## Installation</b></h2>
 <p align="center">
