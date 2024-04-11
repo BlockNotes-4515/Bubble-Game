@@ -8,6 +8,12 @@ Certainly! Here's a detailed description for your GitHub README, covering all fu
 <hr>
 <h1># Bubble Game</h1>
 <hr color="red" width="100%">
+<p align="center">
+  <img src="images/banner.jpg" alt="Banner" width="800px">
+</p>
+
+
+
 <h2><b>## Description</b></h2>
 
 <p align="center">
